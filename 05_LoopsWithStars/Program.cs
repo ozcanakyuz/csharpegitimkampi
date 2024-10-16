@@ -26,6 +26,8 @@ namespace _05_LoopsWithStars
                 }
                 Console.WriteLine();
             }
+            Console.WriteLine("deneme");
+
             Console.Read();
         }
     }
