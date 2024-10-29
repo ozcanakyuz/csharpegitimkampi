@@ -20,15 +20,15 @@ namespace _08_Methods
             //CustomerList();
 
 
-            string StudentCard()
-            {
-                string name = "ALI";
-                string surname = "KAYA";
+            //string StudentCard()
+            //{
+            //    string name = "ALI";
+            //    string surname = "KAYA";
 
-                return name + " " + surname;
-            }
+            //    return name + " " + surname;
+            //}
 
-            Console.WriteLine(StudentCard());
+            //Console.WriteLine(StudentCard());
 
             Console.Read();
         }
